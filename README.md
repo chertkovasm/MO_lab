@@ -8,3 +8,6 @@
 
 Лаб5 (Понижение размерности):
 https://colab.research.google.com/drive/1HUKQSHG2tsb0SfLnJirHZVZGbps8JR4Y?usp=sharing
+
+Лаб6 (Несбалансированный датасет 1):
+https://colab.research.google.com/drive/1prM8pIsGSWYsHFEukOt3pnVeyck23rYO?usp=sharing
