@@ -21,3 +21,6 @@ https://colab.research.google.com/drive/1Uo74VApUn_h2DUj2OPpVFjtIwGTZk7RN?usp=sh
 
 Лаб8 (NLP):
 https://colab.research.google.com/drive/1fWstO_YD497r2IL2v8stUAT2CUJSK2Fw?usp=sharing
+
+Лаб9 (Обучение с подкреплением):
+https://colab.research.google.com/drive/17S96G3YNPTWy-DMOnXD8XaHAUyzrjEOp
